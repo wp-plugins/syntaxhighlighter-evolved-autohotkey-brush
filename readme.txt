@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== SyntaxHighlighter Evolved: Autohotkey Brush ===
 Contributors: sytone
 Donate link: http://sytone.com/
 Tags: syntax, highlight, autohotkey, ahk
