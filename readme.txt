@@ -14,6 +14,8 @@ Adds support for the Autohotkey language to the SyntaxHighlighter Evolved plugin
 
 This plugin needs the SyntaxHighlighter Evolved plugin to be installed and it was tested with verion: 3.1.2
 
+Example can be seen at http://www.sytone.com/syntaxhighlighter-evolved-autohotkey-brush/
+
 == Installation ==
 
 1. Create a directory called 'syntaxhighlighter-autohotkey' in the '/wp-content/plugins/' directory.
